@@ -39,3 +39,5 @@ Test Cases:
 6
 123456
 ```
+
+Link to Ideone Code: https://ideone.com/pYs7rn (fork it and make changes :-)))))).
