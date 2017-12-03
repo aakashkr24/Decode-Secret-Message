@@ -156,7 +156,7 @@ int main()
       cin >> S;
 
       cout << "compute_ways returns: " << compute_ways(S, N) << endl;
-      cout << "improved_compute_ways returns" <<improved_compute_ways(S, N) << endl;
+      cout << "improved_compute_ways returns: " <<improved_compute_ways(S, N) << endl;
     }
 
     return 0;
